@@ -1,0 +1,31 @@
+agencia;conta;saldo;status;retorno
+0101;12225-6;100,00;A;Atualizado
+0101;12226-8;3200,50;A;Atualizado
+3202;40011-1;-35,12;I;Atualizado
+3202;54001-2;0,00;P;Atualizado
+3202;00321-2;34500,00;B;Atualizado
+0101;12225-6;100,00;x;Não Atualizado
+0101;12226-8;3200,50;x;Não Atualizado
+3202;40011-1;-35,12;I;Atualizado
+3202;54001-2;0,00;P;Atualizado
+3202;00321-2;34500,00;s;Não Atualizado
+0101;12225-6;100,00;A;Atualizado
+0101;12226-8;3200,50;A;Atualizado
+3202;40011-1;-35,12;I;Atualizado
+3202;54001-2;0,00;P;Atualizado
+3202;00321-2;34500,00;B;Atualizado
+0101;12225-6;100,00;x;Não Atualizado
+0101;12226-8;3200,50;x;Não Atualizado
+3202;40011-1;-35,12;I;Atualizado
+3202;54001-2;0,00;P;Atualizado
+3202;00321-2;34500,00;s;Não Atualizado
+0101;12225-6;100,00;A;Atualizado
+0101;12226-8;3200,50;A;Atualizado
+3202;40011-1;-35,12;I;Atualizado
+3202;54001-2;0,00;P;Atualizado
+3202;00321-2;34500,00;B;Atualizado
+0101;12225-6;100,00;x;Não Atualizado
+0101;12226-8;3200,50;x;Não Atualizado
+3202;40011-1;-35,12;I;Atualizado
+3202;54001-2;0,00;P;Atualizado
+3202;00321-2;34500,00;s;Não Atualizado
