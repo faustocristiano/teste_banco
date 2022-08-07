@@ -16,12 +16,12 @@ Usar o "serviço da receita" (fake) para processamento automático do arquivo.
 3. Retorna um arquivo com o resultado do envio da atualização da Receita. Mesmo formato adicionando o resultado em uma nova coluna.
    
 ### Formato CSV:
-agencia;conta;saldo;status
-0101;12225-6;100,00;A
-0101;12226-8;3200,50;A
-3202;40011-1;-35,12;I
-3202;54001-2;0,00;P
-3202;00321-2;34500,00;B
+1. agencia;conta;saldo;status
+2. 0101;12225-6;100,00;A
+3. 0101;12226-8;3200,50;A
+4. 3202;40011-1;-35,12;I
+5. 3202;54001-2;0,00;P
+6. 3202;00321-2;34500,00;B
 
 #### Implementações:
 Para implementação do projeto solicitado pelo cliente, foi utilizado o framework SptrigBoot, e variando desse framework
