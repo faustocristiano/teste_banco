@@ -120,18 +120,19 @@ public class SincronizacaoReceita{
                     }                        
                         
                 }                  
-            //escreve de uma unica vez toda a lista no arquivo CSV, 
-            //funcionalidade do API opencsv
+            
             
             //fecha a leitura
             csvReader.close();
 
+            //escreve de uma unica vez toda a lista no arquivo CSV, 
+            //funcionalidade do API opencsv
             csvWriter.writeAll(exportCSV); 
 
             //fecha a escrita
             csvWriter.close();
 
-                       //fecha o arquivo 
+            //fecha o arquivo 
             fileWriter.close();   
             System.out.println("Arquivo gerado com sucesso");
             return; 
